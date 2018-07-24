@@ -1,108 +1,106 @@
-# What learning to code actually taught me
+# Việc học lập trình đã thực sự dạy tôi những gì
 
-I have to admit it. I love to code. But it wasn’t always this way. In fact, I am a perfect cliché. I started enjoying it only when I stuck with it for so long that I started to get the hang of it.
+Tôi phải thừa nhận điều này. Tôi thích code. Nhưng không phải lúc nào cũng vậy. Trên thực thế, Tôi là một perfect cliché. Tôi bắt đầu yêu thích nó chỉ khi tôi bị mắc kẹt với nó quá lâu đến nỗi tôi bắt đầu từ bỏ nó.
 
-To be clear, coding is the only thing I’ve ever done where you spend most of your time ‘failing’. Broken code is the norm, and fixing it, finding bugs, and building stuff that works smoothly requires inordinate patience, research, focus, and persistence. But the lessons learned allow you to progress.
+Để rõ ràng hơn, lập trình là việc duy nhất tôi từng làm mà phần lớn thời gian là 'thất bại'.. Code bị lỗi là điều bình thường, và sửa nó, tìm lỗi và xây dựng mọi thứ hoạt động trơn tru đòi hỏi sự kiên nhẫn, nghiên cứu, tập trung và kiên trì. Nhưng những bài học kinh nghiệm này sẽ giúp bạn tiến bộ.
+Khi chúng ta già đi, chúng ta có được niềm tin khiến chúng ta mất đi động lực.  Thái độ và kỳ vọng của chúng ta bắt đầu trở nên giới hạn, thường là vô thức.Ngay cả khi tâm thức của chúng ta chấp nhận khoa học về thần kinh, tiềm thức của ta vẫn chưa tiếp thu kịp kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được các lý do chạy ngang qua đầu của chúng ta, cũng như lý do tại sao chúng tôi sẽ không có kiến thức hoặc kỹ năng mới.
 
-As we get older, we acquire beliefs that demotivate us. Our attitudes and expectations start becoming self-limiting, usually subconsciously. Even if our conscious minds accept the science of neuroplasticity, our subconscious beliefs haven’t internalised this knowledge. In fact, we aren’t even conscious of the litany of excuses that run through our mental operating system, as to why we won’t acquire new knowledge or skills.
+Dưới đây là một số điều bạn sẽ nhận ra:
 
-Here are some you’ll recognise:
+- Bạn không thể dạy một thủ thuật mới cho chó già
+- Chỉ trẻ em mới có thể học những điều mới một cách nhanh chóng
+- Việc này quá khó
+- Tôi ghét trường học
+- Tốt hơn là nên bám theo những gì bạn giỏi hơn là tìm hiểu những thứ mới
+- Tôi không có thời gian
+- Bạn phải là một mọt sách / thiên tài/ trí tuệ siêu phàm
+- Bạn phải có một tâm trí nhất định / tôi không phải thuộc ‘loại’ đó
+- Chỉ điều cuối cùng là đúng và không theo cách mà ta đang sử dụng.
 
-- You can’t teach an old dog new tricks
-- Only kids can learn new things fast
-- It’s too hard
-- I hated school/uni
-- It’s better to stick to what you’re good at than learn new stuff
-- I don’t have the time
-- You’ve got to be a nerd / genius / brainiac
-- You’ve got to have a certain bent of mind / I’m not that ‘type’
-- Only the last one is true, and not in the way you’re using it.
+Trong nhiều năm, tôi nghĩ rằng phải thực sự thông minh mới có thể trở thành một lập trình viên. Có vẻ như là bạn cần một siêu trí tuệ. Chỉ khi tôi đọc về Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, và nhiều người khác tự học, như những đứa trẻ, trong thời kỳ tiền Internet mà tôi bắt đầu nghĩ - cứ tiếp tục, ta sẽ không học được gì. Nếu những người trên có thể tự học như những đứa trẻ , khi mà tất cả những gì họ có là các dự án ở trường học và các sách hướng dẫn cũ, thì điều này không phải là do họ là thiên tài bẩm sinh. Đây là do nỗ lực kiên trì và thời gian họ dành ra.
 
-For years I thought that you had to be “off the charts” smart to be a coder. It seemed an intellectual superpower. It was only when I read about Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, and many others being self-taught, as kids, in the pre-Internet era that I started to think — hang on, that doesn’t add up. If these people could teach themselves as kids, when all they had was school projects and old manuals, then this isn’t about innate genius. This is about persistent effort, and time spent.
+Tôi bắt đầu nghiên cứu thêm về điều này và nhận ra rằng rất nhiều lập trình viên tự học và không tự xem mình là người có năng khiếu. Giống như tất cả các kỹ năng, các trường hợp ngoại lệ là có năng khiếu. Nhưng họ là ngoại lệ. Những người tốt và giỏi cứ làm điều đó, lặp đi lặp lại, cho đến khi họ có đủ tốt để làm bất cứ điều gì họ muốn.
 
-I started to research this more, and realised that a lot of coders are self-taught, and don’t view themselves as particularly gifted. Like all skills, the outliers are gifted. But they’re outliers. The good and great ones just kept doing it, again and again, until they got good enough to do whatever they wanted.
+Tôi bắt đầu thấy một kiểu mẫu. Là một "luật sư phục hồi", tôi đã được thông báo rằng "bạn phải thực sự thông minh để trở thành một luật sư". Tôi không đồng ý. Nếu bạn suy nghĩ về điều đó, tôi chắc chắn bạn đã gặp những người thông minh và không thông minh trong mọi tầng lớp xã hội, và đáng ngạc nhiên, trong cùng tầng lớp với bạng. Và mặt khác, một số người cho là phải thông minh để làm những gì họ muốn hóa ra lại là những người rất bình thường.
 
-I started to see a pattern. As a “recovering lawyer”, I’ve been told that “you must be really smart to be a lawyer”. I disagree. If you reflect upon it, I’m sure you’ve met smart and not-so-smart people in all walks of life, and surprisingly, in the same walk of life. And on the other hand, some people you’d assume have to be smart to do what they do turned out to be very regular folks.
+Một số nhân vật lớn nhất trong lịch sử của chúng ta đã nhấn mạnh rằng họ là những người bình thường và đưa ra những quyết định và lựa chọn phi thường. Những người đáng chú ý thường làm những điều không đáng kể và những người bình thường thì thường làm những điều đáng chú ý.
 
-Some of our biggest figures in history insist that they are ordinary people that made extraordinary decisions and choices. Remarkable people often do unremarkable things and unremarkable people often do remarkable things.
+Rõ ràng, niềm tin của tôi đã sai. Có thể “thông minh” là một khái niệm tự giới hạn, bởi vì nó cho thấy bạn được sinh ra với nó hay không. Đây là một xu hướng văn hóa, một niềm tin rằng thông minh là một thuộc tính tĩnh, bẩm sinh, phổ cập. Trên thực tế, thông minh cũng như kỹ năng và có thể thay đổi. Bạn có thể thay đổi nó, đi đúng hướng, với nỗ lực liên tục.
 
-Clearly, my beliefs were wrong. Maybe “smart” is a self-limiting concept, because it suggests you’re born with it or not. This is a cultural bias, a belief that being smart is a static, innate, congenital, universal attribute. Actually, being smart is always relative to a skill, and it’s a sliding scale. You can move up it, in the right direction, with persistent effort.
+Do vậy, tôi cũng đã từng hiểu lầm như vậy. Tôi từng nghĩ bạn phải có trí "thông minh" tuyệt vời để trở thành lập trình viên, cũng như những người khác cho rằng tôi cực kỳ "thông minh" mới có thể trở thành luật sư.
 
-So, I had fallen into the same misconception. I assumed you needed to already possess great “smarts” to be a coder, just like others presumed I needed great “smarts” to qualify to be a lawyer.
+Bạn có thể tưởng tượng nếu Henry Ford, Edison, Jobs, anh em nhà Wright, Disney, Einstein và những người khác nghĩ như vậy? Thế giới của chúng ta sẽ như thế nào?
 
-Can you imagine if Henry Ford, Edison, Jobs, the Wright Brothers, Disney, Einstein and others thought that? What would our world be like?
+Không, nó không đáng để suy nghĩ
 
-No, it’s not worth thinking about.
+Thay vào đó, hãy tập trung vào cách chúng ta dừng lại và loại bỏ chính mình khỏi việc học thông qua sự kết hợp của niềm tin sai lệch và kỳ vọng sai lầm. Bằng cách đó, chúng ta có thể tự sửa khi chúng ta không đủ tiêu chuẩn. Tốt hơn, chúng ta có thể đảm bảo những đứa trẻ của chúng ta sẽ không bị ảnh hưởng bởi những suy nghĩ sai lệch.
+## Niềm tin sai lầm # 1: Sự thông minh là bẩm sinh
+Không. Đó là do tích lũy. Và vì nó luôn có tính tương đối, bạn sẽ luôn dốt hơn người khác, vì vậy hãy tiếp tục phát triển.
 
-Instead, let’s focus on how we disable and disqualify ourselves from learning through a combination of false beliefs, and false expectations. That way, we can self-correct when we disqualify ourselves. Better yet, we can make sure we don’t infect our kids with our false beliefs.
+## Niềm tin sai lầm # 2: Bộ não của tôi không học nhanh khi tôi già đi
+Thực tế khó không đúng. Trong thực tế, khi bạn già đi, bạn sẽ có cách học tốt hơn. Khác với cơ thể, trí óc của bạn ở tuổi 75 thậm chí có thể tốt hơn ở tuổi 25. Hỏi Benjamin Franklin.
 
-## False Belief #1: Smartness is inherent
-Nope. It’s acquired. And since it’s always relative, you’re always dumber than someone else. So keep growing.
+Điều thật sự xảy ra là sự tập trung, mối quan tâm, niềm tin và kỷ luật mới là thứ yếu đi và phai nhạt khi chúng ta già đi, điều này là do thiếu luyện tập. Nó không phải là tuổi tác, đó là chúng ta không tập luyện. Chúng ta đã trở nên kém đi về mặt trí tuệ.
 
-## False Belief #2: My brain doesn’t learn as fast as I get older
-Actually, not true either. In fact, as you get older you learn how to learn better. Unlike your body, your mind at age 75 can be orders of magnitude better than it was at 25. Ask Benjamin Franklin.
+Với nhiều người trong số chúng ta, lần cuối ta thực sự học điều gì đó có lẽ là hồi ở đại học, và có lẽ là vài năm trước . Chúng ta cứ học những thứ mà ta thích, đó là sở thích như cách sử dụng Facebook, lặn ở SCUBA  , cách chỉnh sửa và upload các ảnh lên Instagram - bởi ta thấy thích thú với những điều đó. Nhưng chúng ta có xu hướng tránh "làm việc ", và vì thế mất tập luyện.
 
-What really happens is that our focus, attention, self-belief and discipline weaken and waste away as we get older, through lack of exercise. It’s not age, it’s that we’re out of practice. We have become intellectually flabby.
+Bạn có thể lấy lại. Và tốt dần với thời gian.
 
-For many of us, the last time we really studied something was at university, and that was years ago. We kept learning what we loved to learn — hobbies, how to use Facebook, open-water SCUBA diving, how to upload filtered pictures on Instagram — because we found it enjoyable. But the stuff that is “work” we tend to avoid, and so lose practice.
+## Niềm tin sai lầm #3: Nó trở nên dễ dàng hơn với những người khác
+Điều này đặc biệt có hại, bởi vì nó làm cho chúng ta cảm thấy không đầy đủ và choáng ngợp. Do đó, nó khiên ta vô cùng nản chí đến mức chúng ta thậm chí không cố gắng thực hiện bước đầu tiên. Và điều đó không đúng. Đó chỉ là cách nó xuất hiện.
 
-You can get it back. And get better with time.
+Hãy để tôi nói cho bạn những điều này sai lầm như thế nào.
 
-## False Belief #3: It comes easier to other people
-This one is particularly harmful, because it makes us feel inadequate and overwhelmed. Hence it is incredibly discouraging to the point that we don’t even try to take the first step. And it’s simply not true. That is just how it appears.
+Chúng ta có xu hướng đánh giá bản thân bởi bên ngoài của những người khác.
 
-Let me tell you how deceptive this appearance is.
+Đọc lại một lần nữa
 
-We tend to judge our insides by other peoples’ outsides.
+Chúng ta so sánh những suy nghĩ và cảm giác bên trong nhất của chúng ta với cách những người khác thể hiện ở bên ngoài. Trong một thế giới được nhìn qua bộ lọc Instagram, điều này sẽ làm cho tất cả chúng ta cảm thấy không đủ năng lực, béo, xấu xí, ngu ngốc và nghèo nàn.
 
-Read that again.
+Trong thực tế, niềm tin rằng nó đến dễ dàng hơn cho người khác là sai, ngay cả gia đình gần gũi nhất của tôi cho rằng tôi "động lực tự nhiên" 😉
 
-We compare our innermost thoughts and feelings with how others appear on the outside. In a world viewed through Instagram filters, this will make us all feel incompetent, fat, ugly, stupid, and poor.
+Vậy hãy để tôi chốt lại vấn đề. Động lực là là kết quả của việc áp dụng các bài học để mà giờ đây, cuối cùng , viết ra blog này. Đó không phải là nguyên nhân, đó là kết quả.
 
-In fact, the belief that it comes easier to others is so subtle, that even my closest family assume that I am “naturally motivated”. 😉
+Hãy để tôi làm rõ điểm này
 
-Let me put this to rest now. Motivation was the result of applying the learnings that I’m now, finally, spilling out in this blog. It was not the cause. It was a consequence.
+Nó thật khó. Nó sẽ tiếp tục khó. Thậm chí ngày nay, tôi đã có một cuộc đấu tranh nội bộ, hầu như mỗi ngày, về những điều tôi đã làm trong nhiều năm. Một số ngày tôi có động lực, nhưng tâm trí tôi vẫn muốn nói chuyện với tôi hãy chọn cách dễ dàng
 
-Let me labour this point.
-
-It was hard. It is hard. It will continue to be hard. Even today I have an internal struggle, almost every day, on things I’ve been doing for years. Some days I’m motivated, but my mind still wants to talk me into taking the easy way.
-
-I don’t always WANT to practice code, read, ride instead of take a tram, go to the gym, abstain from eating an extra pie. I almost never FEEL like it. Every single day, my mind comes up with hundreds of excuses or slippery ways to trick me into taking the easy way out. The thing that is easier, is recognising what my mind is doing. Because as Tony Robbins says:
+Không phải lúc nào tôi cũng muốn luyện tập việc code, đọc sách, đạp xe thay vì đi xe điện, tập gym, kiêng ăn bằng chiếc bánh nữa. Tôi gần như không bao giờ cảm thấy thích điều này.Mỗi ngày, tâm trí của tôi xuất hiện với hàng trăm lý do hay những cách khiến tôi chọn cách dễ dàng. Điều dễ dàng hơn, là nhận ra những gì tâm trí mình đang làm. Bởi vì như Tony Robbins nói:
 
 *It’s not your mind … it’s THE mind.*
-And then I do it anyway. That’s not motivation. That’s discipline. Motivation is a flaky friend that relies on charm to win you over. Instead, discipline wears a smelly hoody, sits in the corner and doesn’t say much, but shows up every time, is reliable, and delivers the goods.
+Và sau đó tôi thực hiện điều đó bằng bất cứ cách nào. Đó không phải là động lực. Đó là kỷ luật.  Động lực là một người bạn bất ổn, nó dựa vào bạn có thằng nổi sự cám dỗ hay không. Còn kỷ luật mặc chiếc áo choàng bốc mùi, ngồi trong một góc và không nói gì nhiều nhưng sẽ xuất hiệnmọi lúc, rất đáng tin cậy và mang lại những điều tốt đẹp.
 
-That’s the rule to manage False Belief #3 (you may never get rid of it, so just manage it). It doesn’t come easy to anyone. It just gets easier to manage the more you practice managing it. You’re never going to feel like it, so do it anyway. Just do it. Anyway.
+-Đó là quy tắc để quản lý Tín ngưỡng sai số 3 (bạn có thể không bao giờ loại bỏ nó, vì vậy hãy quản lý nó). Nó không dễ dàng với bất cứ ai. Việc quản lý nó càng dễ dàng hơn. Bạn sẽ không bao giờ cảm thấy thích nó, do đó hãy làm điều đó. Cứ làm đi. Dù sao.
 
-Then others can look at you and say it came easy to you.
+Sau đó, những người khác có thể nhìn vào bạn và nói rằng nó trở nên dễ dàng với bạn.
 
-Oh, and it’s not just me. Take any person who inspires you. I mean it — any person at all. And ask them. Or read about them. You will see that it looked easy because you only saw the briefest, most superficial subset of their life. And you saw it through your filter. Behind the scenes they worked and worked and practiced and overcame resistance, negativity, and failure repeatedly with no evidence that it was going anywhere, or that they were making progress.
+Ồ, không phải chỉ có tôi. Lấy bất kỳ người nào truyền cảm hứng cho bạn. Ý tôi là - bất kỳ người nào cả. Và hỏi họ. Hoặc đọc về chúng. Bạn sẽ thấy rằng nó trông dễ dàng bởi vì bạn chỉ nhìn thấy tập hợp con ngắn nhất, hời hợt nhất trong cuộc đời của họ. Và bạn đã thấy nó qua bộ lọc của bạn. Đằng sau hậu trường, họ làm việc và làm việc và thực hành và vượt qua sức đề kháng, tiêu cực và thất bại liên tục mà không có bằng chứng cho thấy nó đang đi bất cứ nơi nào, hoặc họ đang tiến bộ.
 
-Now let’s talk about some expectations you might have that won’t help you all that much.
+Bây giờ chúng ta hãy nói về một số kỳ vọng bạn có thể sẽ không giúp bạn nhiều như vậy.
 
-## False Expectation #1: It will get easier
-Yes. But only if you’ve stopped pushing yourself. If you’re finding it easy, it’s because you’re on a plateau. Plateaus are inevitable. Just don’t stay there. Level up.
+## False Expectation # 1: Nó sẽ dễ dàng hơn
+Vâng. Nhưng chỉ khi bạn ngừng tự đẩy mình. Nếu bạn thấy dễ dàng, đó là vì bạn đang ở trên cao nguyên. Plateaus là không thể tránh khỏi. Chỉ cần không ở đó. Lên cấp.
 
-## False Expectation #2: It will happen quickly
-No. it won’t. It will be harder than you expect, yet more achievable than you realise.
+## False Expectation # 2: Nó sẽ xảy ra nhanh chóng
+Không, nó sẽ không. Nó sẽ khó hơn bạn mong đợi, nhưng có thể đạt được nhiều hơn bạn nhận ra.
 
-Read that sentence again.
+Đọc lại câu đó.
 
-And it will take longer than you bargained for. That is where most of your frustration will come from, as the passage of time will make you doubt and fear more. You will look for quick wins, and easy trophies. They will come. But well after the point you imagined, and as a reward for persisting past that trough of sorrow, when they can’t legitimately be called quick or easy anymore.
+Và nó sẽ mất nhiều thời gian hơn bạn mặc cả. Đó là nơi mà hầu hết sự thất vọng của bạn sẽ đến từ, vì thời gian trôi qua sẽ khiến bạn nghi ngờ và sợ hãi hơn. Bạn sẽ tìm kiếm chiến thắng nhanh chóng và danh hiệu dễ dàng. Họ sẽ đến. Nhưng sau thời điểm bạn tưởng tượng, và như một phần thưởng cho sự bền bỉ trong quá khứ nỗi đau khổ đó, khi chúng không thể được gọi một cách hợp pháp một cách nhanh chóng hoặc dễ dàng nữa.
 
-## False Expectation #3: Your life will change
-Maybe. Maybe not. Only one thing is guaranteed to change. You.
+## False Expectation # 3: Cuộc sống của bạn sẽ thay đổi
+Có lẽ. Có thể không. Chỉ có một điều được đảm bảo thay đổi. Bạn.
 
-And seriously, that’s the starting point. From there, you can move steadily in the direction of the life changes you seek.
+Và nghiêm túc, đó là điểm khởi đầu. Từ đó, bạn có thể di chuyển đều đặn theo hướng thay đổi cuộc sống mà bạn tìm kiếm.
 
-But the contents of your life will not change until you change. And if you have practiced persisting through repeated failure in something like learning a new skill, you will come out of it with insights and confidence that will help you overcome all the other setbacks in your life. And if you’re always trying to expand your life, you will always encounter those failures. That’s good. Failure is a sign of progress. Just keep going. And remember Nastia Luskin’s rule.
+Nhưng nội dung cuộc sống của bạn sẽ không thay đổi cho đến khi bạn thay đổi. Và nếu bạn đã thực hành kiên trì thông qua thất bại lặp đi lặp lại trong một cái gì đó như học một kỹ năng mới, bạn sẽ đi ra khỏi nó với những hiểu biết và sự tự tin sẽ giúp bạn vượt qua tất cả những thất bại khác trong cuộc sống của bạn. Và nếu bạn luôn cố gắng mở rộng cuộc sống của mình, bạn sẽ luôn gặp phải những thất bại đó. Điều đó tốt. Thất bại là một dấu hiệu của sự tiến bộ. Cư tiêp tục. Và hãy nhớ quy tắc của Nastia Luskin.
 
-What inspired me to write this specific post:
+Điều gì đã truyền cảm hứng cho tôi viết bài đăng cụ thể này:
 
-- Tom Bilyeu, Impact Theory
-- How I built this - Podcast
-- IndieHackers - Podcast with Quincy Larson, and the FreeCodeCamp community generally.
-    
-If you would like to talk about your journey, I would love to listen. Tweet me @ZubinPratap. If you think what you just read could be useful to someone, please share it.
+- Tom Bilyeu, Lý thuyết tác động
+- Làm thế nào tôi xây dựng này - Podcast
+- IndieHackers - Podcast với Quincy Larson và cộng đồng FreeCodeCamp nói chung.
+    
+Nếu bạn muốn nói về cuộc hành trình của bạn, tôi rất thích nghe. Tweet tôi @ZubinPratap. Nếu bạn nghĩ những gì bạn vừa đọc có thể hữu ích cho ai đó, hãy chia sẻ nó.
 
-Founder at Whooshka.me
+Người sáng lập tại Whooshka.me
