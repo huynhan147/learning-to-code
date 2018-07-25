@@ -3,7 +3,7 @@
 Tôi phải thừa nhận điều này. Tôi thích code. Nhưng không phải lúc nào cũng vậy. Trên thực thế, Tôi là một perfect cliché. Tôi bắt đầu yêu thích nó chỉ khi tôi bị mắc kẹt với nó quá lâu đến nỗi tôi bắt đầu từ bỏ nó.
 
 Để rõ ràng hơn, lập trình là việc duy nhất tôi từng làm mà phần lớn thời gian là 'thất bại'.. Code bị lỗi là điều bình thường, và sửa nó, tìm lỗi và xây dựng mọi thứ hoạt động trơn tru đòi hỏi sự kiên nhẫn, nghiên cứu, tập trung và kiên trì. Nhưng những bài học kinh nghiệm này sẽ giúp bạn tiến bộ.
-Khi chúng ta già đi, chúng ta có được niềm tin khiến chúng ta mất đi động lực.  Thái độ và kỳ vọng của chúng ta bắt đầu trở nên giới hạn, thường là vô thức.Ngay cả khi tâm thức của chúng ta chấp nhận khoa học về thần kinh, tiềm thức của ta vẫn chưa tiếp thu kịp kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được các lý do chạy ngang qua đầu của chúng ta, cũng như lý do tại sao chúng tôi sẽ không có kiến thức hoặc kỹ năng mới.
+Khi chúng ta già đi, chúng ta có được niềm tin khiến chúng ta mất đi động lực.  Thái độ và kỳ vọng của chúng ta bắt đầu trở nên giới hạn, thường là vô thức.Ngay cả khi tâm thức của chúng ta chấp nhận khoa học về thần kinh, tiềm thức của ta vẫn chưa tiếp thu kịp kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được các lý do chạy ngang qua đầu của chúng ta, cũng như lý do tại sao chúng ta sẽ không có kiến thức hoặc kỹ năng mới.
 
 Dưới đây là một số điều bạn sẽ nhận ra:
 
