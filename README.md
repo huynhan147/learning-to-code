@@ -70,37 +70,27 @@ Không phải lúc nào tôi cũng muốn luyện tập việc code, đọc sác
 *It’s not your mind … it’s THE mind.*
 Và sau đó tôi thực hiện điều đó bằng bất cứ cách nào. Đó không phải là động lực. Đó là kỷ luật.  Động lực là một người bạn bất ổn, nó dựa vào bạn có thằng nổi sự cám dỗ hay không. Còn kỷ luật mặc chiếc áo choàng bốc mùi, ngồi trong một góc và không nói gì nhiều nhưng sẽ xuất hiệnmọi lúc, rất đáng tin cậy và mang lại những điều tốt đẹp.
 
--Đó là quy tắc để quản lý Tín ngưỡng sai số 3 (bạn có thể không bao giờ loại bỏ nó, vì vậy hãy quản lý nó). Nó không dễ dàng với bất cứ ai. Việc quản lý nó càng dễ dàng hơn. Bạn sẽ không bao giờ cảm thấy thích nó, do đó hãy làm điều đó. Cứ làm đi. Dù sao.
+-Đó là quy tắc để quản lý Niềm tin sai lầm #3 (bạn có thể không bao giờ loại bỏ nó, vì vậy hãy quản lý nó). Nó không dễ dàng với bất cứ ai. Việc quản lý nó càng dễ dàng hơn. Bạn sẽ không bao giờ cảm thấy thích làm việc đó, do đó hãy làm điều đó. Cứ làm đi.
 
 Sau đó, những người khác có thể nhìn vào bạn và nói rằng nó trở nên dễ dàng với bạn.
 
-Ồ, không phải chỉ có tôi. Lấy bất kỳ người nào truyền cảm hứng cho bạn. Ý tôi là - bất kỳ người nào cả. Và hỏi họ. Hoặc đọc về chúng. Bạn sẽ thấy rằng nó trông dễ dàng bởi vì bạn chỉ nhìn thấy tập hợp con ngắn nhất, hời hợt nhất trong cuộc đời của họ. Và bạn đã thấy nó qua bộ lọc của bạn. Đằng sau hậu trường, họ làm việc và làm việc và thực hành và vượt qua sức đề kháng, tiêu cực và thất bại liên tục mà không có bằng chứng cho thấy nó đang đi bất cứ nơi nào, hoặc họ đang tiến bộ.
+Ồ, không phải chỉ có tôi. Lấy bất kỳ người nào truyền cảm hứng cho bạn. Ý tôi là - bất kỳ người nào. Và hỏi họ. Hoặc đọc về họ. Bạn sẽ thấy rằng nó trông dễ dàng bởi vì bạn chỉ nhìn thấy một phần nhỏ trong cuộc đời của họ. Và bạn đã thấy nó qua các nhìn riêng của bạn. Đằng sau đó, họ làm việc và thực hành liên tục và vượt qua những rào cản, tiêu cực và thất bại liên tục mà không có dấu hiệu cho thấy nó đang đi về đâu, hoặc họ đang tiến bộ.
 
 Bây giờ chúng ta hãy nói về một số kỳ vọng bạn có thể sẽ không giúp bạn nhiều như vậy.
 
-## False Expectation # 1: Nó sẽ dễ dàng hơn
-Vâng. Nhưng chỉ khi bạn ngừng tự đẩy mình. Nếu bạn thấy dễ dàng, đó là vì bạn đang ở trên cao nguyên. Plateaus là không thể tránh khỏi. Chỉ cần không ở đó. Lên cấp.
+## Kỳ vọng sai lầm # 1: Nó sẽ dễ dàng hơn
+Đúng. Nhưng chỉ khi bạn ngừng thúc đẩy bản thân. Nếu bạn thấy dễ dàng, đó là vì bạn đang ở trên đỉnh cao. Đỉnh cao là chắc chắn. Chỉ cần không dừng ở đó. Hãy tiến xa hơn.
 
-## False Expectation # 2: Nó sẽ xảy ra nhanh chóng
-Không, nó sẽ không. Nó sẽ khó hơn bạn mong đợi, nhưng có thể đạt được nhiều hơn bạn nhận ra.
+## Kỳ vọng sai lầm # 2: Nó sẽ xảy ra nhanh chóng
+Không, nó sẽ không. Nó sẽ khó hơn bạn tưởng tượng, nhưng có thể làm được nhiều hơn bạn nghĩ.
 
 Đọc lại câu đó.
 
-Và nó sẽ mất nhiều thời gian hơn bạn mặc cả. Đó là nơi mà hầu hết sự thất vọng của bạn sẽ đến từ, vì thời gian trôi qua sẽ khiến bạn nghi ngờ và sợ hãi hơn. Bạn sẽ tìm kiếm chiến thắng nhanh chóng và danh hiệu dễ dàng. Họ sẽ đến. Nhưng sau thời điểm bạn tưởng tượng, và như một phần thưởng cho sự bền bỉ trong quá khứ nỗi đau khổ đó, khi chúng không thể được gọi một cách hợp pháp một cách nhanh chóng hoặc dễ dàng nữa.
+Và nó sẽ mất nhiều thời gian hơn dự định của bạn. Đó là lúc bạn thực sự thất vọng, vì thời gian trôi qua sẽ khiến bạn nghi ngờ và sợ hãi hơn. Bạn sẽ tìm kiếm chiến thắng nhanh chóng và thành tựu dễ dàng. Nó sẽ đến. Nhưng sau thời điểm bạn tưởng tượng, và như một phần thưởng cho sự bền bỉ trong quá khứ đau khổ đó, khi chúng không thể được gọi là nhanh chóng và dễ dàng nữa.
 
-## False Expectation # 3: Cuộc sống của bạn sẽ thay đổi
-Có lẽ. Có thể không. Chỉ có một điều được đảm bảo thay đổi. Bạn.
+## Kỳ vọng sai lầm # 3: Cuộc sống của bạn sẽ thay đổi
+Có lẽ. Có thể không. Chỉ có một điều được đảm bảo thay đổi.Đó là bạn.
 
-Và nghiêm túc, đó là điểm khởi đầu. Từ đó, bạn có thể di chuyển đều đặn theo hướng thay đổi cuộc sống mà bạn tìm kiếm.
+Và nghiêm túc mà nói, đó là điểm khởi đầu. Từ đó, bạn có thể có những bước tiến đều đặn theo hướng thay đổi cuộc sống mà bạn tìm kiếm.
 
-Nhưng nội dung cuộc sống của bạn sẽ không thay đổi cho đến khi bạn thay đổi. Và nếu bạn đã thực hành kiên trì thông qua thất bại lặp đi lặp lại trong một cái gì đó như học một kỹ năng mới, bạn sẽ đi ra khỏi nó với những hiểu biết và sự tự tin sẽ giúp bạn vượt qua tất cả những thất bại khác trong cuộc sống của bạn. Và nếu bạn luôn cố gắng mở rộng cuộc sống của mình, bạn sẽ luôn gặp phải những thất bại đó. Điều đó tốt. Thất bại là một dấu hiệu của sự tiến bộ. Cư tiêp tục. Và hãy nhớ quy tắc của Nastia Luskin.
-
-Điều gì đã truyền cảm hứng cho tôi viết bài đăng cụ thể này:
-
-- Tom Bilyeu, Lý thuyết tác động
-- Làm thế nào tôi xây dựng này - Podcast
-- IndieHackers - Podcast với Quincy Larson và cộng đồng FreeCodeCamp nói chung.
-    
-Nếu bạn muốn nói về cuộc hành trình của bạn, tôi rất thích nghe. Tweet tôi @ZubinPratap. Nếu bạn nghĩ những gì bạn vừa đọc có thể hữu ích cho ai đó, hãy chia sẻ nó.
-
-Người sáng lập tại Whooshka.me
+Nhưng cuộc sống của bạn sẽ không thay đổi cho đến khi bạn thay đổi. Và nếu bạn đã kiên trì vượt qua qua thất bại lần này qua lần khác trong một việc gì đó như học một kỹ năng mới, bạn sẽ vượt qua nó nó với những hiểu biết và sự tự tin sẽ giúp bạn vượt qua tất cả những thất bại khác trong cuộc sống của bạn. Và nếu bạn luôn cố gắng mở rộng cuộc sống của mình, bạn sẽ luôn gặp phải những thất bại đó. Điều đó tốt. Thất bại là một dấu hiệu của sự tiến bộ. Cứ tiêp tục. Và hãy nhớ quy tắc của Nastia Luskin.
