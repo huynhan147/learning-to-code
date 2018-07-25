@@ -1,16 +1,16 @@
 # Việc học lập trình đã thực sự dạy tôi những gì
 
-Tôi phải thừa nhận điều này. Tôi thích code. Nhưng không phải lúc nào cũng vậy. Trên thực thế, Tôi là một perfect cliché. Tôi bắt đầu yêu thích nó chỉ khi tôi bị mắc kẹt với nó quá lâu đến nỗi tôi bắt đầu từ bỏ nó.
+Tôi phải thừa nhận điều này. Tôi thích code. Nhưng không phải lúc nào cũng vậy. Trên thực thế, tôi theo chủ nghĩa hoàn hảo. Tôi bắt đầu yêu thích nó chỉ khi tôi bị mắc kẹt với nó quá lâu đến nỗi tôi bắt đầu từ bỏ nó.
 
 Để rõ ràng hơn, lập trình là việc duy nhất tôi từng làm mà phần lớn thời gian là 'thất bại'.. Code bị lỗi là điều bình thường, và sửa nó, tìm lỗi và xây dựng mọi thứ hoạt động trơn tru đòi hỏi sự kiên nhẫn, nghiên cứu, tập trung và kiên trì. Nhưng những bài học kinh nghiệm này sẽ giúp bạn tiến bộ.
 Khi chúng ta già đi, chúng ta có được niềm tin khiến chúng ta mất đi động lực.  Thái độ và kỳ vọng của chúng ta bắt đầu trở nên giới hạn, thường là vô thức.Ngay cả khi tâm thức của chúng ta chấp nhận khoa học về thần kinh, tiềm thức của ta vẫn chưa tiếp thu kịp kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được các lý do chạy ngang qua đầu của chúng ta, cũng như lý do tại sao chúng tôi sẽ không có kiến thức hoặc kỹ năng mới.
 
 Dưới đây là một số điều bạn sẽ nhận ra:
 
-- Bạn không thể dạy một thủ thuật mới cho chó già
+- Bạn không thể dạy một thủ thuật mới cho chú chó già
 - Chỉ trẻ em mới có thể học những điều mới một cách nhanh chóng
 - Việc này quá khó
-- Tôi ghét trường học
+- Tôi ghét trường học/đaị học
 - Tốt hơn là nên bám theo những gì bạn giỏi hơn là tìm hiểu những thứ mới
 - Tôi không có thời gian
 - Bạn phải là một mọt sách / thiên tài/ trí tuệ siêu phàm
@@ -21,7 +21,7 @@ Trong nhiều năm, tôi nghĩ rằng phải thực sự thông minh mới có t
 
 Tôi bắt đầu nghiên cứu thêm về điều này và nhận ra rằng rất nhiều lập trình viên tự học và không tự xem mình là người có năng khiếu. Giống như tất cả các kỹ năng, các trường hợp ngoại lệ là có năng khiếu. Nhưng họ là ngoại lệ. Những người tốt và giỏi cứ làm điều đó, lặp đi lặp lại, cho đến khi họ có đủ tốt để làm bất cứ điều gì họ muốn.
 
-Tôi bắt đầu thấy một kiểu mẫu. Là một "luật sư phục hồi", tôi đã được thông báo rằng "bạn phải thực sự thông minh để trở thành một luật sư". Tôi không đồng ý. Nếu bạn suy nghĩ về điều đó, tôi chắc chắn bạn đã gặp những người thông minh và không thông minh trong mọi tầng lớp xã hội, và đáng ngạc nhiên, trong cùng tầng lớp với bạng. Và mặt khác, một số người cho là phải thông minh để làm những gì họ muốn hóa ra lại là những người rất bình thường.
+Tôi bắt đầu thấy một kiểu mẫu. Là một "luật sư phục hồi", tôi đã được thông báo rằng "bạn phải thực sự thông minh để trở thành một luật sư". Tôi không đồng ý. Nếu bạn suy nghĩ về điều đó, tôi chắc chắn bạn đã gặp những người thông minh và không thông minh trong mọi tầng lớp xã hội, và đáng ngạc nhiên, trong cùng tầng lớp với bạn. Và mặt khác, một số người cho là phải thông minh để làm những gì họ muốn hóa ra lại là những người rất bình thường.
 
 Một số nhân vật lớn nhất trong lịch sử của chúng ta đã nhấn mạnh rằng họ là những người bình thường và đưa ra những quyết định và lựa chọn phi thường. Những người đáng chú ý thường làm những điều không đáng kể và những người bình thường thì thường làm những điều đáng chú ý.
 
@@ -47,7 +47,7 @@ Với nhiều người trong số chúng ta, lần cuối ta thực sự học �
 Bạn có thể lấy lại. Và tốt dần với thời gian.
 
 ## Niềm tin sai lầm #3: Nó trở nên dễ dàng hơn với những người khác
-Điều này đặc biệt có hại, bởi vì nó làm cho chúng ta cảm thấy không đầy đủ và choáng ngợp. Do đó, nó khiên ta vô cùng nản chí đến mức chúng ta thậm chí không cố gắng thực hiện bước đầu tiên. Và điều đó không đúng. Đó chỉ là cách nó xuất hiện.
+Điều này đặc biệt có hại, bởi vì nó làm cho chúng ta cảm thấy không đầy đủ và choáng ngợp. Do đó, nó khiến ta vô cùng nản chí đến mức chúng ta thậm chí không cố gắng thực hiện bước đầu tiên. Và điều đó không đúng. Đó chỉ là cách nó xuất hiện.
 
 Hãy để tôi nói cho bạn những điều này sai lầm như thế nào.
 
@@ -65,9 +65,9 @@ Hãy để tôi làm rõ điểm này
 
 Nó thật khó. Nó sẽ tiếp tục khó. Thậm chí ngày nay, tôi đã có một cuộc đấu tranh nội bộ, hầu như mỗi ngày, về những điều tôi đã làm trong nhiều năm. Một số ngày tôi có động lực, nhưng tâm trí tôi vẫn muốn nói chuyện với tôi hãy chọn cách dễ dàng
 
-Không phải lúc nào tôi cũng muốn luyện tập việc code, đọc sách, đạp xe thay vì đi xe điện, tập gym, kiêng ăn bằng chiếc bánh nữa. Tôi gần như không bao giờ cảm thấy thích điều này.Mỗi ngày, tâm trí của tôi xuất hiện với hàng trăm lý do hay những cách khiến tôi chọn cách dễ dàng. Điều dễ dàng hơn, là nhận ra những gì tâm trí mình đang làm. Bởi vì như Tony Robbins nói:
+Không phải lúc nào tôi cũng muốn luyện tập việc code, đọc sách, đạp xe thay vì đi xe điện, tập gym, kiêng ăn một chiếc bánh nữa. Tôi gần như không bao giờ cảm thấy thích điều này.Mỗi ngày, tâm trí của tôi xuất hiện với hàng trăm lý do hay những cách khiến tôi chọn cách dễ dàng. Điều dễ dàng hơn, là nhận ra những gì tâm trí mình đang làm. Bởi vì như Tony Robbins nói:
 
-*It’s not your mind … it’s THE mind.*
+*It’s not your mind … it’s THE mind. (Đó không phải tâm trí bạn ... Đó là tâm trí.)*
 Và sau đó tôi thực hiện điều đó bằng bất cứ cách nào. Đó không phải là động lực. Đó là kỷ luật.  Động lực là một người bạn bất ổn, nó dựa vào bạn có thằng nổi sự cám dỗ hay không. Còn kỷ luật mặc chiếc áo choàng bốc mùi, ngồi trong một góc và không nói gì nhiều nhưng sẽ xuất hiệnmọi lúc, rất đáng tin cậy và mang lại những điều tốt đẹp.
 
 -Đó là quy tắc để quản lý Niềm tin sai lầm #3 (bạn có thể không bao giờ loại bỏ nó, vì vậy hãy quản lý nó). Nó không dễ dàng với bất cứ ai. Việc quản lý nó càng dễ dàng hơn. Bạn sẽ không bao giờ cảm thấy thích làm việc đó, do đó hãy làm điều đó. Cứ làm đi.
